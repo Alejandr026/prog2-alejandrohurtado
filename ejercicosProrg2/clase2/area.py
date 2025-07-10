@@ -7,3 +7,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#Para toda funcion recursiva necesito una base
