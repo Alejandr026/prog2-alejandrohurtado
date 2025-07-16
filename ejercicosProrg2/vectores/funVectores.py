@@ -23,3 +23,4 @@ def añadirLista(lista):
             print("❌ Opción no válida. Escribe 's' o 'n'.")
 
     return lista
+

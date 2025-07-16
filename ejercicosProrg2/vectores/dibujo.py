@@ -1,11 +1,11 @@
 # Diccionario de colores
 pixel = {
     0: "⬜",  # Blanco
-    1: "⬛",  # Negro
+    1: "⬛",  # Negros
     2: "🟩"   # Verde
 }
 
-# Matriz basada en tu imagen
+# Diseño de la matris (no se me ocurrio una mejor manera xD)
 alien = [
     [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
     [0,0,0,1,1,1,0,0,0,1,1,1,0,0,0],
@@ -27,5 +27,4 @@ def mostrar_matriz(matriz):
     for fila in matriz:
         print("".join(pixel[val] for val in fila))
 
-# Mostrar el alien
 mostrar_matriz(alien)
