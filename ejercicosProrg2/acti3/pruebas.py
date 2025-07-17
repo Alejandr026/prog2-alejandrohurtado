@@ -5,7 +5,7 @@ print("Probando encontrar mayor")
 assert encontrar_mayor([1, 9, 1 ,8, 3, 7]) == 9
 assert encontrar_mayor([-1, -9, -2, -8]) == -1
 assert encontrar_mayor([42, 42, 42]) == 42
-assert encontrar_mayor([]) == None # Prueba del caso especial
+assert encontrar_mayor([]) == None # Prueb-----------------------------------------------------------------------------------a del caso especial
 assert encontrar_mayor([5]) == 5
 print("¡Pruebas para encontrar_mayor pasaron! ✅")
 
