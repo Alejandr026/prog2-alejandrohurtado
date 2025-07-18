@@ -20,3 +20,6 @@ for fila_actu in matriz:
     for elemento in fila_actu:
         print(elemento, end=" ")
     print()
+
+
+

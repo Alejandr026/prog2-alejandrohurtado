@@ -13,3 +13,15 @@ numero_filas = len(matriz)
 numero_columnas = len(matriz[0])
 print("Numero de filas: ", numero_filas)
 print("Numero de columnas: ", numero_columnas)
+
+"""
+¿por qué len(matriz[0])?
+
+Porque:
+
+    matriz[0] accede a la primera fila: [10, 20, 30, 40]
+
+    len(matriz[0]) cuenta cuántos elementos tiene esa fila → 4 columnas
+
+    Por eso solo sirve cuando es regular o simetrica
+"""
