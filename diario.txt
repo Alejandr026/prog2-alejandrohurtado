@@ -1,4 +1,9 @@
-Querido diario (reputo)
-hoy esoy aprendiendo a usar archivos en pyhton
-el modo w borra todo
-Pd: no te olivdes de quitar el reputo antes de presentar
+
+Fecha de la entrada: 2025-07-22 16:57:04
+primera prueba ingresando datos al diario del usuario 
+
+Fecha de la entrada: 2025-07-22 16:57:28
+segunda prueba para comprobar el salto de las lineas del diario 
+
+Fecha de la entrada: 2025-07-22 19:33:47
+prueba del diario universidad  
