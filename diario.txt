@@ -1,0 +1,4 @@
+Querido diario (reputo)
+hoy esoy aprendiendo a usar archivos en pyhton
+el modo w borra todo
+Pd: no te olivdes de quitar el reputo antes de presentar

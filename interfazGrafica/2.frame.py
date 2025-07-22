@@ -25,6 +25,7 @@ miFrame.config(width="650", height="350")
 miFrame.config(bd=35)
 miFrame.config(relief="groove")
 
+#configurar el tipo de raton que aparece en la ventana
 miFrame.config(cursor="hand2")
 
 raiz.mainloop()
