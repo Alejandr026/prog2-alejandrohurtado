@@ -34,5 +34,6 @@ for i in range(cantidad):
 for i in range(len(inventario)):
     for clave, valor in inventario[i].items():
         print(f"{clave} : {valor}")
+        
 for k in producto1.keys():
     print (k)
