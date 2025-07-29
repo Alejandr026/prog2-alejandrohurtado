@@ -1,0 +1,11 @@
+{
+  "Por Hacer": [],
+  "En Progreso": [],
+  "Completado": [
+    {
+      "desc": "estudiar",
+      "asignado": "roberto",
+      "prioridad": "Baja"
+    }
+  ]
+}

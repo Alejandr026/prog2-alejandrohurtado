@@ -84,7 +84,7 @@ class KanbanApp:
             if not desc:
                 return
             asignado = simpledialog.askstring("Asignado", "¿Quién la hará?") or ""
-            prioridad = simpledialog.askstring("Prioridad", "Prioridad (Alta, Media, Baja):") or "Media"
+            prioridad = simpledialog.askstring("Prioridad", "Prioridad (Alta, Media, Baja):")
             tarea = {"desc": desc, "asignado": asignado, "prioridad": prioridad.capitalize()}
             self.tareas["Por Hacer"].append(tarea)
 

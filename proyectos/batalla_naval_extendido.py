@@ -1,7 +1,7 @@
 import random
 
 FILAS = 4
-COLUMNAS = 2
+COLUMNAS = 4
 BARCOS = 3
 
 # Crear un tablero vacío

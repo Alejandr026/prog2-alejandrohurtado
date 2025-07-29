@@ -1,5 +1,31 @@
 {
-  "Por Hacer": [],
+  "Por Hacer": [
+    {
+      "desc": "hola",
+      "asignado": "",
+      "prioridad": "Alta"
+    },
+    {
+      "desc": "hola2",
+      "asignado": "",
+      "prioridad": "Media"
+    },
+    {
+      "desc": "hola3",
+      "asignado": "yo",
+      "prioridad": "Tupu"
+    },
+    {
+      "desc": "asdasd",
+      "asignado": "",
+      "prioridad": "Media"
+    },
+    {
+      "desc": "holas3ef",
+      "asignado": "yo mero",
+      "prioridad": "Asda"
+    }
+  ],
   "En Progreso": [],
   "Completado": []
 }
